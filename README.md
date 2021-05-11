@@ -1,19 +1,4 @@
 
-
-
-Hi, I’m @TejaswiNallavolu from Hyderabad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
- 
-
-<!---
-TejaswiNallavolu/TejaswiNallavolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Preferred name (what should we call you in class)?
 - 👋  Hellow everyone , I am Abhi .
 - I am in the second semister of masters in Applied computer science at Northwest missouri state university.
 - I have 2.5 yrs of experience in cognizant technology solutions as a software engineer where, I worked on various tools and technologyies like jira, snow, java, node. 
